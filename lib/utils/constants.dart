@@ -6,5 +6,5 @@ class Constants {
   static const BASE_API_AUTH = 'identitytoolkit.googleapis.com';
   static const BASE_API_AUTH_SIGNUP = '/v1/accounts:signUp';
   static const BASE_API_AUTH_LOGIN = '/v1/accounts:signInWithPassword';
-  static const BASE_API_AUTH_KEY = 'AIzaSyAotckIzi3J9NtCCqsulP-crnX5cGpzDQ0';
+  static const BASE_API_AUTH_KEY = '';
 }
